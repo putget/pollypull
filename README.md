@@ -1,6 +1,8 @@
-## CVE-2024-38526 
-- [x] Mass Urls Scanner
--The polyfill.io CDN, previously compromised to serve malicious code, has now been secured with the latest fix in pdoc 14.5.1.
+## CVE-2024-38526 - Polyfill Scanner: 
+
+[x] Mass Urls Scanner
+
+The polyfill.io CDN, previously compromised to serve malicious code, has now been secured with the latest fix in pdoc 14.5.1.
 
 ## Overview
 
@@ -19,7 +21,7 @@
 
 ```bash
 
-pollypull.sh urls.txt
+bash pollypull.sh urls.txt
 
 Note: The script handles URLs with both http and https protocols.
 Ensure that the URLs in your urls.txt file are properly formatted.
