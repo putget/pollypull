@@ -28,6 +28,9 @@ Ensure that the URLs in your urls.txt file are properly formatted.
 The script will process each URL and check for vulnerabilities or untrusted domains.
 ```
 
+![results](https://github.com/user-attachments/assets/4aed93a8-200e-46dd-b282-d2268ff063f4)
+
+
 
 ### References:
 - [Polyfill[.]io Attack Impacts Over 380,000 ](https://thehackernews.com/2024/07/polyfillio-attack-impacts-over-380000.html)
